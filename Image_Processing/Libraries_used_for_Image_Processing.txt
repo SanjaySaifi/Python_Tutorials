@@ -1,0 +1,5 @@
+pip install opencv-python
+import cv2
+
+pip install numpy
+import numpy as np
